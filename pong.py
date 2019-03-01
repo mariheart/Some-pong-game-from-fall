@@ -1,6 +1,3 @@
-# Maria Arias
-# CS-UY 1114
-# Final project - Pong
 
 import turtle
 import time
